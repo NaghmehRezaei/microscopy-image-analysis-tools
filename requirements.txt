@@ -1,0 +1,8 @@
+streamlit
+numpy
+plotly
+Pillow
+tifffile
+scikit-image
+csbdeep
+stardist
